@@ -52,11 +52,11 @@
 
 ![Скриншот 7](https://github.com/PugachEV72/Images/blob/master/2024-05-06_02-49-40.png)
 
-![Ссылка на Deployment](https://github.com/PugachEV72/kuber-homeworks-2.3/blob/main/deployment-nginx.yaml)
+[Ссылка на Deployment](https://github.com/PugachEV72/kuber-homeworks-2.3/blob/main/deployment-nginx.yaml)
 
-![Ссылка на Secret](https://github.com/PugachEV72/kuber-homeworks-2.3/blob/main/nginx-secret.yaml)
+[Ссылка на Secret](https://github.com/PugachEV72/kuber-homeworks-2.3/blob/main/nginx-secret.yaml)
 
-![Ссылка на Ingress](https://github.com/PugachEV72/kuber-homeworks-2.3/blob/main/ingress-nginx.yaml)
+[Ссылка на Ingress](https://github.com/PugachEV72/kuber-homeworks-2.3/blob/main/ingress-nginx.yaml)
 
 ---
 
